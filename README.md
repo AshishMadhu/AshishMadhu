@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/AshishMadhu/AshishMadhu/blob/main/My%20Post.png" alt="My banner"/>
 <!--
 **AshishMadhu/AshishMadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
