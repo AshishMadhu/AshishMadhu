@@ -1,13 +1,13 @@
 <img src="https://github.com/AshishMadhu/AshishMadhu/blob/main/My%20Post.png" alt="My banner"/>
 
 <hr>
--😎 I'm Ashish Madhu.
+- 😎 I'm Ashish Madhu.
 
--💻 A Full-Stack developer who's graduated from youtube, udemy and stackoverflow.
+- 💻 A Full-Stack developer who's graduated from youtube, udemy and stackoverflow.
 
--🌭 Self taught programmer since 2017.
+- 🌭 Self taught programmer since 2017.
 
--💬 Ask me about Web and App development(hybrid apps).
+- 💬 Ask me about Web and App development(hybrid apps).
 
 I 
 <!--
