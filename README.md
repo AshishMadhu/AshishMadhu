@@ -65,7 +65,14 @@
     - Allmost every bit of the code which I written for backed has its Unit test. So, it is much easyer to scale.
     - App is Developed in react-native and used a lot of its third-party libraries
 
+<h1 align="center">📫 How to reach me: </h1>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-madhu-57780a190/" target="_blank"
+        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
+    </a>
+</p>
 
 
 <!--
