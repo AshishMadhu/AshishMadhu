@@ -1,6 +1,5 @@
 <img src="https://github.com/AshishMadhu/AshishMadhu/blob/main/My%20Post.png" alt="My banner"/>
 
-<hr>
 
 - 😎 I'm Ashish Madhu.
 
