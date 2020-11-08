@@ -38,8 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> 
   <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/redis/redis-plain.svg" alt="redis" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/>  
-  <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/redis/redis-plain.svg" alt="redis" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" height="40"/> 
 </p>
 
