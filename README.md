@@ -69,9 +69,17 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-madhu-57780a190/" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
-    </a>
+  <a href="https://www.linkedin.com/in/ashish-madhu-57780a190/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ashish-madhu-57780a190" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ashish.madhu.73/" target="_blank">
+     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="ashish.madhu.73" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/arrow_atom/" target="_blank">
+     <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="arrow_atom" height="50" />
+  </a>
 </p>
 
 
