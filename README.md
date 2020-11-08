@@ -14,8 +14,9 @@
 
 - 💎 Django, ReactJS and Electron are my inifnity stones and I'm prettry powerful with those.
 
-<h1 align="center">I can (honestly)😁: </h1>
 <hr>
+
+<h1 align="center">I can (honestly)😁: </h1>
 
 - use HTML, SCSS and JS(ReactJs) for fontend and for mobile apps react-native.
 
