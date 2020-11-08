@@ -64,6 +64,13 @@
     - I made backend using Django and DjangoRestFramework.
     - Allmost every bit of the code which I written for backed has its Unit test. So, it is much easyer to scale.
     - App is Developed in react-native and used a lot of its third-party libraries
+    
+<h1 align="center">Stats QuickView: </h1>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishMadhu&layout=compact" alt="Ashishmadhu" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=AshishMadhu&show_icons=true" alt="AshishMadhu" />
+</div>
 
 <h1 align="center">📫 How to reach me: </h1>
 
