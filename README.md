@@ -47,7 +47,7 @@
 
 <hr>
 
-<h1 align="center">My Experiences: </h1>
+<h1 align="center">My Projects: </h1>
 
 - Project 1 MovieReview, from fontend to backed was developed by me
 
