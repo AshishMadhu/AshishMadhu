@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> 
 </p>
 
-- use tools are Docker, postman, Visual Studio code, Android Studio, Git, GitHub, bash, MongoDb, MySQL, SQLite, Postgresql, FireBase.
+- use tools such as Docker, postman, Visual Studio code, Android Studio, Git, GitHub, bash, MongoDb, MySQL, SQLite, Postgresql, FireBase.
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> 
