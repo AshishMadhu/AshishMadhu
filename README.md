@@ -5,7 +5,7 @@
 
 - 💻 A Full-Stack developer who's graduated from youtube, udemy and stackoverflow.
 
-- 🌭 Self taught programmer from 2017.
+- 🌭 Self taught programmer.
 
 - 💬 Ask me about Web and Mobile App development mainly hybrid.
 
